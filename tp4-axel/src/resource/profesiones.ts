@@ -54,3 +54,5 @@ const profesiones = [
       "Produce material visual para comunicar mensajes a través de medios digitales",
   },
 ];
+
+export default profesiones;
